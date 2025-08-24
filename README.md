@@ -1,6 +1,6 @@
 # 🧠 MCP Build Memory Tracker Server
 
-A powerful memory tracking server built using the [MCP (Multi-Service Conversational Platform)](https://github.com/microsoft/mcp) framework. This project monitors, stores, and manages contextual memory from MCP-powered AI applications, enabling smarter and more coherent interactions across sessions.
+A powerful memory tracking server built using the [MCP (Model Context Protocol)](https://github.com/microsoft/mcp) framework. This project monitors, stores, and manages contextual memory from MCP-powered AI applications, enabling smarter and more coherent interactions across sessions.
 
 ## 🚀 Features
 
@@ -94,5 +94,6 @@ Make sure to configure your client to point to this server when running in devel
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
+
 
 
